@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Foxy_Net", "Foxy_Net\Foxy_Net.vcxproj", "{2F655F6A-A986-45FC-A83C-BDD19F11873A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F655F6A-A986-45FC-A83C-BDD19F11873A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2F655F6A-A986-45FC-A83C-BDD19F11873A}.Debug|Win32.Build.0 = Debug|Win32
+		{2F655F6A-A986-45FC-A83C-BDD19F11873A}.Debug|x64.ActiveCfg = Debug|x64
+		{2F655F6A-A986-45FC-A83C-BDD19F11873A}.Debug|x64.Build.0 = Debug|x64
+		{2F655F6A-A986-45FC-A83C-BDD19F11873A}.Release|Win32.ActiveCfg = Release|Win32
+		{2F655F6A-A986-45FC-A83C-BDD19F11873A}.Release|Win32.Build.0 = Release|Win32
+		{2F655F6A-A986-45FC-A83C-BDD19F11873A}.Release|x64.ActiveCfg = Release|x64
+		{2F655F6A-A986-45FC-A83C-BDD19F11873A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF7AA4C-7172-41BA-BCB8-5084A44EE70C}
+	EndGlobalSection
+EndGlobal
